@@ -1,0 +1,9 @@
+c:\users\umutcan.horozoglu\documents\visual studio 2015\Projects\KlasorListesi\KlasorListesi\bin\Debug\KlasorListesi.exe.config
+c:\users\umutcan.horozoglu\documents\visual studio 2015\Projects\KlasorListesi\KlasorListesi\bin\Debug\KlasorListesi.exe
+c:\users\umutcan.horozoglu\documents\visual studio 2015\Projects\KlasorListesi\KlasorListesi\bin\Debug\KlasorListesi.pdb
+c:\users\umutcan.horozoglu\documents\visual studio 2015\Projects\KlasorListesi\KlasorListesi\obj\Debug\KlasorListesi.csprojResolveAssemblyReference.cache
+c:\users\umutcan.horozoglu\documents\visual studio 2015\Projects\KlasorListesi\KlasorListesi\obj\Debug\KlasorListesi.exe
+c:\users\umutcan.horozoglu\documents\visual studio 2015\Projects\KlasorListesi\KlasorListesi\obj\Debug\KlasorListesi.pdb
+C:\Users\umutcan.horozoglu\Source\Repos\CSharp\KlasorListesi\KlasorListesi\bin\Debug\KlasorListesi.exe.config
+C:\Users\umutcan.horozoglu\Source\Repos\CSharp\KlasorListesi\KlasorListesi\obj\Debug\KlasorListesi.exe
+C:\Users\umutcan.horozoglu\Source\Repos\CSharp\KlasorListesi\KlasorListesi\obj\Debug\KlasorListesi.pdb
